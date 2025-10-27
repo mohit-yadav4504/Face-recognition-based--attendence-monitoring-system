@@ -97,6 +97,6 @@ Option to change admin password securely.
 
 Developed by: Mohit yadav
 📧 Email: mohityadav4504@gmail.com
-]
-💻 GitHub: 
+
+💻 GitHub: https://github.com/mohit-yadav4504
 
