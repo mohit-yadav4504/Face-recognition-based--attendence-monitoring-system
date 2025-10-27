@@ -55,9 +55,7 @@ Face_Recognition_Attendance_System/
 1️⃣ Install Required Libraries
 pip install opencv-python opencv-contrib-python pillow pandas numpy
 
-2️⃣ Clone or Download the Project
-git clone https://github.com/<your-username>/Face_Recognition_Attendance_System.git
-cd Face_Recognition_Attendance_System
+2️⃣ Clone or Download 
 
 3️⃣ Add Required Files
 
